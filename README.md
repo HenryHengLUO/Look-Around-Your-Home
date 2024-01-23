@@ -30,7 +30,7 @@ These extreme weather events, along with heavy rainfall, resulted in an all-time
 
 ## Project Collaboration and Purpose 🤝🌟❤️
 
-The Look Around Your Home project was born out of inspiration from Prof. Tao in 2023 who encourage me to create useful and meaningful projects that help others, utilizing the government-supported public resources. The project aims to provide useful and timely information to Hong Kong residents during extreme weather conditions. 🌟🌧️🤝
+The Look Around Your Home project was born out of inspiration from Prof. Tao in 2023 who encouraged me to create useful and meaningful projects that help others, utilizing the government-supported public resources. The project aims to provide useful and timely information to Hong Kong residents during extreme weather conditions. 🌟🌧️🤝
 
 This project is based on Google Script as serverlsess microservices and Google Spreadsheet as the SQL database. I've tapped into the power of technology to bring you this thrilling experience. 🚀💻🔒
 
